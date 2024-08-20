@@ -80,6 +80,10 @@ Nature, 2020.
 *D Marković, A Mizrahi, D Querlioz, J Grollier.*<br>
 Nature Reviews Physics, 2020.
 
+**Brain-Inspired Computing: A Systematic Survey and Future Trends.**<br>
+*G Li, L Deng, H Tang, G Pan, Y Tian, K Roy, W Maass.*<br>
+Proceedings of the IEEE, 2024.
+
 ## Spiking Neural Network
 
 **Unsupervised learning of digit recognition using spike-timing-dependent plasticity.**<br>
